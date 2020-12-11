@@ -35,8 +35,5 @@ manifest:
           - openthread
           - edtt
           - trusted-firmware-m
-    - name: uf2
-      remote: microsoft
-      path: tools/uf2
   self:
     west-commands: scripts/west-commands.yml
