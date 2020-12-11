@@ -36,5 +36,8 @@ manifest:
           - openthread
           - edtt
           - trusted-firmware-m
+          - civetweb
+          - loramac-node
+          - nrf_hw_models
   self:
     west-commands: scripts/west-commands.yml
