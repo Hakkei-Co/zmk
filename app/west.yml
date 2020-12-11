@@ -15,11 +15,13 @@ manifest:
         # TODO: Rename once upstream offers option like `exclude` or `denylist`
         name-blacklist:
           - ci-tools
+          - esp-idf
           - hal_atmel
           - hal_altera
           - hal_cypress
           - hal_infineon
           - hal_microchip
+          - hal_nordic
           - hal_nxp
           - hal_openisa
           - hal_silabs
